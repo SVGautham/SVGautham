@@ -1,5 +1,5 @@
 # 💫 About Me:
-👂 My name is S.V.Gautham <br>👩 Pronouns: He  <br>🔭 I’m currently a student  <br>🌱 I’m currently learning Electrical and Computer Engineering  <br>🤝 I’m looking to collaborate on Web Development and Data Analyst  <br>🤔 I’m looking for help with MERN Stack  <br>📫 How to reach me: svgautham04@gmail.com  <br>❤️ I love developing apps
+👂 My name is S.V.Gautham <br>👩 Pronouns: He  <br>🔭 I’m currently a student  <br>🌱 I’m currently learning Electrical and Computer Engineering  <br>🤝 I’m looking to collaborate on Web Development and Data Analyst  <br>🤔 I’m looking to help with MERN Stack  <br>📫 How to reach me: svgautham04@gmail.com  <br>❤️ I love developing apps
 
 
 ## 🌐 Socials:
